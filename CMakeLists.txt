@@ -4,4 +4,5 @@ project(DSA)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(DSA
-        Sorting/bubble-sort.cpp)
+        Sorting/bubble-sort.cpp
+        Sorting/insertion-sort.cpp)
