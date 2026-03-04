@@ -19,11 +19,3 @@ vector<int> insertion_sort(vector<int> arr) {
     return arr;
 }
 
-int main() {
-    vector<int> arr = {5,4,10,1,6,2};
-    vector<int> ans = insertion_sort(arr);
-
-    for (int i = 0; i < ans.size(); i++) {
-        cout << ans[i] << endl;
-    }
-}
