@@ -8,4 +8,5 @@ add_executable(DSA
         Sorting/insertion-sort.cpp
         Sorting/selection-sort.cpp
         Sorting/merge-sort.cpp
-        Sorting/quick_sort.cpp)
+        Sorting/quick_sort.cpp
+        searching/binary_search.cpp)
